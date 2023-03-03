@@ -9,7 +9,7 @@
 }
 
 .background-neymar{
-    background: url(/img/wallpaper.png);
+    background: url(/landing-page-psg/img/wallpaper.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -123,7 +123,7 @@ header {
 }
 
 .bg-hero{
-    background: url(/img/wallapaper2.png);
+    background: url(/landing-page-psg/img/wallapaper2.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
